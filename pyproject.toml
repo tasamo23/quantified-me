@@ -1,0 +1,12 @@
+[project]
+name = "quantified-me"
+version = "0.1.0"
+description = "Data science on my personal data"
+requires-python = ">=3.12"
+dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.1",
+    "numpy>=2.2.3",
+    "pandas>=2.2.3",
+    "seaborn>=0.13.2",
+]
